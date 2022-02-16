@@ -1,8 +1,13 @@
 <template>
   <div>
-    <TrunityHeader />
-    <TrunitySubHeader />
-    <Nuxt />
+    <header>
+      <TrunityHeader />
+      <TrunitySubHeader />
+    </header>
+    <main>
+      <Nuxt />
+    </main>
+    <footer></footer>
   </div>
 </template>
 
