@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-primary">
-    header
+  <div class="bg-primary py-2">
+    Header
   </div>
 </template>
 
